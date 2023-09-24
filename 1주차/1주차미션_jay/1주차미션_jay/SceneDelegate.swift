@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  0922
+//  1주차미션_jay
 //
 //  Created by 신지연 on 2023/09/22.
 //
